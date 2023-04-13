@@ -6,6 +6,6 @@
 </script>
 
 <div class={className}>
-	<h1 class="text-xl font-semibold">Step 2</h1>
-	<p>Click on the <em>{button.value}</em> button</p>
+	<h1 class="text-xl font-semibold">2. krok</h1>
+	<p>Klikni na <em>{button.value}</em> tlačítko</p>
 </div>

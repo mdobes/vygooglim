@@ -4,6 +4,6 @@
 </script>
 
 <div class={className}>
-	<h1 class="text-xl font-semibold">Step 1</h1>
-	<p class="">Type your question</p>
+	<h1 class="text-xl font-semibold">1. krok</h1>
+	<p class="">Napiš svůj dotaz</p>
 </div>
